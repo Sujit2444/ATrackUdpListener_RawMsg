@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATrackUdpListener_RawMsg", "ATrackUdpListener_RawMsg\ATrackUdpListener_RawMsg.csproj", "{683D38B5-A0AD-4B68-AD59-3E868E88B122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATrackUdpListenerForm", "ATrackUdpListenerForm\ATrackUdpListenerForm.csproj", "{78D635A7-EE4C-45D8-8877-4F470A936D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATrackUdpNetBase", "ATrackUdpNetBase\ATrackUdpNetBase.csproj", "{C288D9BB-490B-4371-9A0A-EC155A3E41CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|x64.ActiveCfg = Debug|x64
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|x64.Build.0 = Debug|x64
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|x86.ActiveCfg = Debug|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Debug|x86.Build.0 = Debug|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|Any CPU.ActiveCfg = Release|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|Mixed Platforms.Build.0 = Release|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|x64.ActiveCfg = Release|x64
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|x64.Build.0 = Release|x64
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|x86.ActiveCfg = Release|x86
+		{683D38B5-A0AD-4B68-AD59-3E868E88B122}.Release|x86.Build.0 = Release|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|x64.ActiveCfg = Debug|x64
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|x64.Build.0 = Debug|x64
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|x86.ActiveCfg = Debug|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Debug|x86.Build.0 = Debug|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|Any CPU.ActiveCfg = Release|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|Mixed Platforms.Build.0 = Release|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|x64.ActiveCfg = Release|x64
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|x64.Build.0 = Release|x64
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|x86.ActiveCfg = Release|x86
+		{78D635A7-EE4C-45D8-8877-4F470A936D71}.Release|x86.Build.0 = Release|x86
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|x64.ActiveCfg = Debug|x64
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|x64.Build.0 = Debug|x64
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|x64.ActiveCfg = Release|x64
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|x64.Build.0 = Release|x64
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{C288D9BB-490B-4371-9A0A-EC155A3E41CE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FBD5F4-B4BA-4869-9935-A00A99EDE90E}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TytUdpListenerForm.vsmdi
+	EndGlobalSection
+EndGlobal

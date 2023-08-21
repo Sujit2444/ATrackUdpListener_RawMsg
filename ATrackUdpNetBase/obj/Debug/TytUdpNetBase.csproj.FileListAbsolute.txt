@@ -1,0 +1,52 @@
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csprojAssemblyReference.cache
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CoreCompileInputs.cache
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.dll
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.pdb
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\log4net.dll
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\MailGun.dll
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.dll
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\MailGun.pdb
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.xml
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CopyComplete
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.dll
+E:\Work\TYT-Source\TytUdpListenerForm\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.pdb
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.dll
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.pdb
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\log4net.dll
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\MailGun.dll
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.dll
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\MailGun.pdb
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.xml
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.AssemblyReference.cache
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CoreCompileInputs.cache
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CopyComplete
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.dll
+D:\tyt_vault\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.pdb
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.dll
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\TytUdpNetBase.pdb
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\log4net.dll
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.dll
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\bin\Debug\RestSharp.xml
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CoreCompileInputs.cache
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CopyComplete
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.dll
+D:\TYT Listener\main_SqlACK\TytUdpNetBase\obj\Debug\TytUdpNetBase.pdb
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\TytUdpNetBase.dll
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\TytUdpNetBase.pdb
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\log4net.dll
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\RestSharp.dll
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\RestSharp.xml
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CoreCompileInputs.cache
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CopyComplete
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.dll
+D:\tyt_vault\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.pdb
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\TytUdpNetBase.dll
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\TytUdpNetBase.pdb
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\log4net.dll
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\RestSharp.dll
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\bin\Debug\RestSharp.xml
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.AssemblyReference.cache
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CoreCompileInputs.cache
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.csproj.CopyComplete
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.dll
+D:\Sujit\TytUdpListener_RawMsg\TytUdpNetBase\obj\Debug\TytUdpNetBase.pdb

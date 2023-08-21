@@ -1,0 +1,9 @@
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\bin\Debug\ATrackUdpNetBase.dll
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\bin\Debug\ATrackUdpNetBase.pdb
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\bin\Debug\log4net.dll
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\bin\Debug\RestSharp.dll
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\bin\Debug\RestSharp.xml
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\obj\Debug\ATrackUdpNetBase.csproj.CoreCompileInputs.cache
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\obj\Debug\ATrackUdpNetBase.csproj.CopyComplete
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\obj\Debug\ATrackUdpNetBase.dll
+D:\tyt_vault\ATrackUdpListener_RawMsg\ATrackUdpNetBase\obj\Debug\ATrackUdpNetBase.pdb
